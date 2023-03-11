@@ -38,6 +38,9 @@ if($row[0] < 15){
 <HTML>
     <HEAD>
         <TITLE>PHP | BLOB file upload to MySQL</TITLE>
+        <meta charset="UTF-8">
+        <meta name="description" content="Example MySQL BLOB using PHP">
+        <meta name="keywords" content="PHP, MySQL, BLOB">
         <meta name="author" content="JORGE LUIS AGUIRRE MARTINEZ">
         <meta name="publish_date" property="og:publish_date" content="2023-03-10T18:00:00-0600">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
