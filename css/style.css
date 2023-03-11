@@ -8,21 +8,6 @@ body {
 	line-height: 1.5;
 }
 
-a {
-	text-decoration: none;
-	color: #2f20d1;
-}
-
-a:hover {
-	text-decoration: underline;
-}
-
-img {
-	height: auto;
-	max-width: 100%;
-	vertical-align: middle;
-}
-
 .phppot-container {
 	width: 740px;
 	margin: 20 auto;
@@ -33,88 +18,8 @@ img {
 	padding: 6px 0 6px 0;
 }
 
-.label {
-	color: #565656;
-	margin-bottom: 2px;
-}
-
-.card {
-	padding: 1rem 2rem;
-	border-radius: 4px;
-	box-shadow: 0 1px 3px #747681;
-}
-
-.message {
-	padding: 6px 20px;
-	font-size: 1em;
-	color: rgb(40, 40, 40);
-	box-sizing: border-box;
-	margin: 0px;
-	border-radius: 3px;
-	width: 100%;
-	overflow: auto;
-}
-
-.error {
-	background-color: #fb817c;
-	border: 1px solid #e46b66;
-}
-
-.success {
-	background-color: #48e0a4;
-	border: #40cc94 1px solid;
-}
-
-.validation-message {
-	color: #e20900;
-}
-
-.font-bold {
-	font-weight: bold;
-}
-
-.display-none {
-	display: none;
-}
-
-.inline-block {
-	display: inline-block;
-}
-
-.float-right {
-	float: right;
-}
-
-.float-left {
-	float: left;
-}
-
-.text-center {
-	text-align: center;
-}
-
-.text-left {
-	text-align: left;
-}
-
-.text-right {
-	text-align: right;
-}
-
 .full-width {
 	width: 100%;
-}
-
-.cursor-pointer {
-	cursor: pointer;
-}
-
-.mr-20 {
-	margin-right: 20px;
-}
-
-.m-20 {
-	margin: 20px;
 }
 
 .tile-container {

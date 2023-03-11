@@ -7,15 +7,6 @@ input, textarea, select {
 	border-radius: 4px;
 }
 
-input[type="checkbox"] {
-	width: auto;
-	vertical-align: text-bottom;
-}
-
-textarea {
-	width: 300px;
-}
-
 select {
 	display: initial;
 	height: 30px;
@@ -43,4 +34,15 @@ input[type=submit]:hover {
 label {
 	display: block;
 	color: #565656;
+}
+
+.image-gallery {
+	text-align:center;
+}
+.image-gallery img {
+	padding: 3px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+	border: 1px solid #FFFFFF;
+	border-radius: 4px;
+	margin: 20px;
 }

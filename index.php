@@ -26,26 +26,13 @@ if (count($_FILES) > 0) {
         <TITLE>PHP | BLOB file upload to MySQL</TITLE>
         <meta charset="UTF-8">
         <meta name="description" content="Example MySQL BLOB using PHP">
-        <meta name="keywords" content="PHP, MySQL, Blob">
+        <meta name="keywords" content="PHP, MySQL, BLOB">
         <meta name="author" content="JORGE LUIS AGUIRRE MARTINEZ">
-        <meta name="publish_date" property="og:publish_date" content="2023-03-09T02:00:00-0600">
+        <meta name="publish_date" property="og:publish_date" content="2023-03-10T18:00:00-0600">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link href="css/form.css" rel="stylesheet" type="text/css" />
         <link href="css/style.css" rel="stylesheet" type="text/css" />
-
-        <style>
-            .image-gallery {
-                text-align:center;
-            }
-            .image-gallery img {
-                padding: 3px;
-                box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
-                border: 1px solid #FFFFFF;
-                border-radius: 4px;
-                margin: 20px;
-            }
-        </style>
     </HEAD>
 
     <BODY>
