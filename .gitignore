@@ -1,0 +1,20 @@
+# This is gitignore file
+# List the pattern to instruct the git to ignore
+
+# /vendor               # ignore the vendor directory
+# /node_modules         # ignore node_modules directory
+# node_modules          # ignore node_modules directory
+# /public/storage       # ignore /public/storage directory
+# Homestead.yaml        # ignore Homestead.yaml file
+# Homestead.json        # ignore Homestead.json file
+# .env                  # ignore .env API Keys relationed files
+# .sass-cache           # ignore SASS configure files
+# *.log                 # ignore all logs   
+# /nbproject/private/   # ignore /nbproject/private/ directory
+# /sql/*.sql            # ignore all .sql files in sql directory
+#                       You can use \ to escape .gitignore pattern characters if you have files or directories containing them:
+# foo\[01\].txt         # ignore the file literally named foo[01].txt 
+# pubspec.lock          # ignore the file literally name pubspec.lock
+
+# ignore all mp4 files   
+*.mp4
