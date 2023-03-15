@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/db.php';
+    require_once __DIR__ . '/db.php';
     // Read image BLOB to display
     // Get image data stored with the MySQL BLOB field in the database
     if (isset($_GET['image_id'])) {
