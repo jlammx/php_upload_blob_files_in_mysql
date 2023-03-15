@@ -1,6 +1,6 @@
-# PHP | BLOB file upload to MySQL
+# PHP | Upload BLOB files in MySQL
 
-This project is an example of BLOB file upload to MySQL with PHP.
+This repository is an example of upload BLOB files in MySQL using PHP.
 
 - [Create database](assets/database/dev_test_tbl_image.sql)
 - [Connect database](db.php)
