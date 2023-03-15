@@ -12,7 +12,7 @@ This repository is an example of upload BLOB files in MySQL using PHP.
 <br/>
 
 Deployed by **[jlammx](https://github.com/jlammx)**
-- 🚀 Live: [View deployment](http://demo.pagos.cafisa.org/php_blob_file_upload_to_mysql)
+- 🚀 Live: [View deployment](http://demo.pagos.cafisa.org/php_upload_blob_files_in_mysql)
 
 <br/>
 
