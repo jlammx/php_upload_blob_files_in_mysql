@@ -12,6 +12,7 @@
         while ($row = $result->fetch_assoc()) {
             // Show only images that contain imageData in the database 
             if($row["imageData"]){
+            // <img src="data:image/jpg;charset=utf8;base64,<?php echo base64_encode($row['imageData']); " />
             ?>
             <?php ?>
                 <!--- Display uploaded blob images in a gallery --->
